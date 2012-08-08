@@ -1,0 +1,3 @@
+[submodule "lib/IlmBase"]
+	path = lib/IlmBase
+	url = git://github.com/aforsythe/IlmBase.git
